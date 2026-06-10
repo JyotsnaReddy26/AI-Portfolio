@@ -1,5 +1,5 @@
 # Ai-PortFolio
-## Satti Krishna Tulasi
+## Satti Jyotsna Sai Surekha
 Public portfolio of AI Workshop. By Day 12: 6 daily notebooks + capstone Streamlit URL.
 
 ## Day 1 — Setup complete
